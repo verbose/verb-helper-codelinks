@@ -1,22 +1,22 @@
 {
   "name": "verb-helper-codelinks",
-  "description": "Generate a list of links to the first line of code for each method in a given directory. ",
-  "version": "0.1.0",
-  "homepage": "https://github.com/jonschlinkert/verb-helper-codelinks",
+  "description": "Generate a list of links to the first line of code for each method in a given directory.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/verbose/verb-helper-codelinks",
   "author": {
     "name": "Jon Schlinkert",
     "url": "https://github.com/jonschlinkert"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jonschlinkert/verb-helper-codelinks.git"
+    "url": "git://github.com/verbose/verb-helper-codelinks.git"
   },
   "bugs": {
-    "url": "https://github.com/jonschlinkert/verb-helper-codelinks/issues"
+    "url": "https://github.com/verbose/verb-helper-codelinks/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/jonschlinkert/verb-helper-codelinks/blob/master/LICENSE"
+    "url": "https://github.com/verbose/verb-helper-codelinks/blob/master/LICENSE"
   },
   "files": [
     "index.js"
