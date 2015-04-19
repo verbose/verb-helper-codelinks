@@ -1,7 +1,7 @@
 {
   "name": "verb-helper-codelinks",
   "description": "Generate a list of links to the first line of code for each method in a given directory.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/verbose/verb-helper-codelinks",
   "author": {
     "name": "Jon Schlinkert",
